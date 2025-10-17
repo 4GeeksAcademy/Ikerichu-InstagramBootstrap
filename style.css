@@ -1,6 +1,0 @@
-#singles, #grid{
-    display:none;
-}
-#grid:target, #singles:target{
-    display:block;
-}
